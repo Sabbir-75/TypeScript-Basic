@@ -1,0 +1,1 @@
+{"version":3,"file":"accessmodifire.d.ts","sourceRoot":"","sources":["../src/accessmodifire.ts"],"names":[],"mappings":"AA+CA,cAAM,SAAS;IAEP,OAAO,CAAC,EAAE;IACH,IAAI,EAAE,MAAM;IACnB,QAAQ,CAAC,GAAG,EAAE,MAAM;gBAFZ,EAAE,EAAE,MAAM,EACX,IAAI,EAAE,MAAM,EACV,GAAG,EAAE,MAAM;IAGxB,IAAI;CAGP;AAED,QAAA,MAAM,MAAM,WAAiC,CAAA"}
