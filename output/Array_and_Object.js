@@ -86,4 +86,7 @@
 // // eleven.dress = 'unique';
 //  (eleven as any).dress = "unique";
 // console.log(eleven)
+// Tuples
+let collection = [1, "kolim", { id: 10 }, true];
+console.log(collection);
 //# sourceMappingURL=Array_and_Object.js.map

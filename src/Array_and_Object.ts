@@ -76,7 +76,7 @@
 //     age?: number;  // if add new key and value
 //     phones?: number;  // if add new key and value
 //     // [key: string]: any;  // ✅ যেকোনো নতুন property add করা যাবে
-   
+
 // };
 
 // let ten: Person;
@@ -103,7 +103,7 @@
 //     age?: number;  // if add new key and value
 //     phones?: (number | string)[];  // if add new key and value
 //     // [key: string]: any;  // ✅ যেকোনো নতুন property add করা যাবে
-   
+
 // };;
 // eleven = {
 //     familly_member: "four",
@@ -118,3 +118,9 @@
 //  (eleven as any).dress = "unique";
 
 // console.log(eleven)
+
+
+// Tuples
+
+let collection: [number, string, object, boolean] = [1, "kolim", { id: 10 }, true]
+console.log(collection);
